@@ -21,7 +21,7 @@
 * HTML/HTML5  
 * CSS/CSS3  
 * JQuery
-* Botstrap 
+* Bootstrap 
 
 ### Databases 
 
