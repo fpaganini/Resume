@@ -2,7 +2,7 @@
 
 
 **Location:** Novo Hamburgo - RS - Brazil  
-**Phone Number:** +55 (51) 9-9124-3147  
+**WhatsApp:** +55 (51) 9-9124-3147  
 **Email:** [fpaganinirodrigues@gmail.com](mailto:fpaganinirodrigues@gmail.com)  
 **GitHub:** fpaganini   
 **LinkedIn:** [https://www.linkedin.com/in/fpaganini/](https://www.linkedin.com/in/fpaganini/)  
@@ -11,10 +11,12 @@
 
 ### Back-End  
 
-* .NET (WindowsForms,ASPX,MVC,Razor,WebServices)  
+* .NET (WindowsForms,ASPX,MVC,Razor,WebServices,Blazor)  
 * JAVA (Android)   
+* Kotlin (Android)   
 * TypeScript (Angular)
 * Python
+* Lua
 
 ### Front-End  
 
@@ -22,12 +24,14 @@
 * CSS/CSS3  
 * JQuery
 * Bootstrap 
+* React
+* Material Design
 
 ### Databases 
 
+* SQL Server
 * MySQL  
 * Postgre
-* SQL Server
 
 
 ### Version Control Systems  
@@ -37,37 +41,32 @@
 
 ### Methodologies  
 
-* DDD
 * Scrum   
-* Extreme Programming   
 * Kanban
-* TDD
+* Design Thinking
 
 ### Others
 
 * Leadership Technique
+* Game Design
+* Unity
+* Inovation Technique
 
 ## Work Experience  
 
-**Implementation Manager** - *[September/2016 ~ Present]*  
+**System Analyst, Developer, Implementation Manager** - *[October/2013 ~ Today]*  
 [CWI Software](http://cwi.com.br/)
-> Client: Uniodonto Porto Alegre (http://www.uniodontopoa.com.br/)
-> Project: Odontosfera
-
-
-**System Analyst and Developer** - *[October/2013 ~ September/2016]*  
-[CWI Software](http://cwi.com.br/)
-> Client: Uniodonto Porto Alegre (http://www.uniodontopoa.com.br/)
-> Projects: CSU,UFAST,Mobile Application, Procure seu Dentista, Site Institucional, Gestão de imagens de consultorio, Portal Parceiras, Monitoramento ANS, RPS
+> Partner: Uniodonto Porto Alegre (http://www.uniodontopoa.com.br/)
+> Projects: CSU,UFAST,Mobile Application, Procure seu Dentista, Site Institucional, Gestão de imagens de consultorio, Portal Parceiras, Monitoramento ANS, RPS, Plataforma de Vendas, Intranet, Hotsites
 
 **Developer** - *[September/2013 ~ October/2013]*  
 [CWI Software](http://cwi.com.br/)
-> Client: Fleury (http://www.fleury.com.br/)
+> Partner: Fleury (http://www.fleury.com.br/)
 > Projects: Fleury Web
 
-**Acting CEO** - *[November/2010 ~ August/2013]*  
-[pgnSoft](http://pgnsoft.com.br/)
-> Projects: Veloz, MaisCadastros, Maestro, Websites and personal CRMs
+**Developer** - *[November/2010 ~ August/2013]*  
+[pgnSoft]
+> Projects: Veloz, MaisCadastros, Maestro, Websites and personal CRMs for Personal Credit Offices
 
 **Developer** - *[July/2009 ~ April/2010]*  
 [Datum T.I.](http://www.datum.inf.br/)
@@ -79,14 +78,18 @@
 
 ## Education  
 
-**Management, IT Management** - June 2016 - December 2018.  
+**Game Design** - February 2021 ~ Today  
 [UNINTER](http://www.uninter.com/)  
 
-**Technician at Information Technology/Information Systems** - February 2009 - December 2011.  
+**Management, IT Management** - June 2016 ~ December 2018.  
+[UNINTER](http://www.uninter.com/)  
+
+**Technician at Information Technology/Information Systems** - February 2009 ~ December 2011.  
 [FTEC](https://www.ftec.com.br/)  
 
 ## Courses  
 
+* How to innovate, on San Francisco,CA at [Startse](https://www.startse.com/);  
 * Agile Project Management Course with SCRUM at [pmTech](http://www.pmtech.com.br/);  
 * Leadership techniques at [SENAC](http://www.senacrs.com.br/);  
 * Management Excellence Model at [FNQ](http://www.fnq.org.br/english/management-excellence-model);  
