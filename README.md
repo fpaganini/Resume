@@ -7,6 +7,10 @@
 **GitHub:** fpaganini   
 **LinkedIn:** [https://www.linkedin.com/in/fpaganini/](https://www.linkedin.com/in/fpaganini/)  
 
+
+**You can see this Resume at** https://github.com/fpaganini/Resume
+
+
 ## Skills  
 
 ### Back-End  
